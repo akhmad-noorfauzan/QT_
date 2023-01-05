@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>home.qml</file>
+        <file>penjualan.qml</file>
+        <file>pengelola.qml</file>
+        <file>ikan2.png</file>
+        <file>bglaut.jpg</file>
+        <file>ikan.qml</file>
+        <file>dataikan.jpg</file>
+        <file>dokumen.JPG</file>
+    </qresource>
+</RCC>
